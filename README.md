@@ -2,7 +2,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Blockchain, Cloud Architecture and Artificial Intelligence.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>

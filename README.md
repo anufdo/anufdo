@@ -4,6 +4,10 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🌱 &nbsp; Learning more about Blockchain, Cloud Architecture and Artificial Intelligence.
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
+<br><br>
+
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 

@@ -166,8 +166,4 @@ Open to collaboration, interesting problems and conversations about AI-assisted 
 
 **May the Force (and clean code) be with you.** ⭐
 
-<img src="https://komarev.com/ghpvc/?username=anufdo&style=flat-square&color=FFE81F&label=Visitors" alt="Profile views"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:000000&height=120&section=footer" alt="" width="100%"/>
-
 </div>
